@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.egg-info/
+*.pkl
+*.pt
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter outputs
+*.checkpoint
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Model files
+*.h5
+*.onnx
+*.tflite
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
